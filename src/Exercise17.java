@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Exercise17 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
+
 //    17. Write a Java program to add two binary numbers. Go to the editor
 //    Input Data:
 //    Input first binary number: 10

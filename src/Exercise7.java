@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Exercise7 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
+
 //    7. Write a Java program that takes a number as input and prints its multiplication table upto 10. Go to the editor
 //    Test Data:
 //    Input a number: 8

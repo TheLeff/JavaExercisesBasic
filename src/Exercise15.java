@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Exercise15 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
+
 //    15. Write a Java program to swap two variables. Go to the editor
 //    Click me to see the solution
 

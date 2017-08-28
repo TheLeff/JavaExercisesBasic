@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Exercise12 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
+
 //    12. Write a Java program that takes three numbers as input to calculate and print the average of the numbers. Go to the editor
 //    Click me to see the solution
 

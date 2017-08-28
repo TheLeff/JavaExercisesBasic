@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Exercise2 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
+
 //    2. Write a Java program to print the sum of two numbers. Go to the editor
 //    Test Data:
 //            74 + 36

@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Exercise5 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
+
 //    5. Write a Java program that takes two numbers as input and display the product of two numbers. Go to the editor
 //    Test Data:
 //    Input first number: 25

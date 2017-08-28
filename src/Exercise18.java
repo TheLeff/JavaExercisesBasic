@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Exercise18 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
+
 //    18. Write a Java program to multiply two binary numbers. Go to the editor
 //    Input Data:
 //    Input the first binary number: 10

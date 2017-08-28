@@ -1,5 +1,7 @@
 public class Exercise14 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
+
 //    14. Write a Java program to print an American flag on the screen. Go to the editor
 //    Expected Output
 //

@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Exercise11 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
+
 //    11. Write a Java program to print the area and perimeter of a circle. Go to the editor
 //    Test Data:
 //    Radius = 7.5

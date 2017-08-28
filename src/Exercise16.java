@@ -1,5 +1,7 @@
 public class Exercise16 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
+
 //    16. Write a Java program to print a face. Go to the editor
 //    Expected Output
 //

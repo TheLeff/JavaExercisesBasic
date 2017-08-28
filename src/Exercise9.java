@@ -1,5 +1,6 @@
 public class Exercise9 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
 
 //    9. Write a Java program to compute the specified expressions and print the output. Go to the editor
 //    Test Data:

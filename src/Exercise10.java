@@ -1,5 +1,7 @@
 public class Exercise10 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
+
 //    10. Write a Java program to compute a specified formula. Go to the editor
 //    Specified Formula :
 //            4.0 * (1 - (1.0/3) + (1.0/5) - (1.0/7) + (1.0/9) - (1.0/11))

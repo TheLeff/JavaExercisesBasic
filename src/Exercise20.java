@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Exercise20 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
+
 //    20. Write a Java program to convert a decimal number to hexadecimal number. Go to the editor
 //    Input Data:
 //    Input a decimal number: 15

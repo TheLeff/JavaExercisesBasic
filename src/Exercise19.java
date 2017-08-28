@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Exercise19 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
+
 //    19. Write a Java program to convert a decimal number to binary number. Go to the editor
 //    Input Data:
 //    Input a Decimal Number : 5

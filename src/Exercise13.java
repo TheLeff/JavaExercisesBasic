@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Exercise13 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
+
 //    13. Write a Java program to print the area and perimeter of a rectangle. Go to the editor
 //    Test Data:
 //    Width = 5.5 Height = 8.5

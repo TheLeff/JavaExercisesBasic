@@ -1,5 +1,6 @@
 public class Exercise8 {
 
+//    http://www.w3resource.com/java-exercises/basic/index.php
 
 //  8. Write a Java program to display the following pattern. Go to the editor
 //    Sample Pattern :
